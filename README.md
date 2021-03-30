@@ -6,7 +6,7 @@
  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
 <hr>
 - 📫 How to reach me: <br> 
-<p><img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png"><a href="mailto: adriano.contacto@gmail.com">Mail: adriano.contacto@gmail.com</a></p> <br>
+<p><img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20"><a href="mailto: adriano.contacto@gmail.com">Mail: adriano.contacto@gmail.com</a></p> <br>
 <p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20"><a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_blank">Linkedin/AdrianoCappelletti</a></p>
 
 <!---
