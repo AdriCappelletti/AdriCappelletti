@@ -6,7 +6,7 @@
  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
 <hr>
 - 📫 How to reach me --> 
-Mail: adriano.contacto@gmail.com
+Mail: adriano.contacto@gmail.com <br>
 Linkedin/AdrianoCappelletti
 
 <!---
