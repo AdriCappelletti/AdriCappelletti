@@ -9,7 +9,7 @@
 
 <br>
 <p><img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
-<p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20"><a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_blank"> Linkedin/AdrianoCappelletti</a></p>
+<p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_blank"> AdrianoCappelletti</a></p>
 
 <!---
 AdriCappelletti/AdriCappelletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
