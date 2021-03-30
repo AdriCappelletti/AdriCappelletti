@@ -7,7 +7,7 @@
 <hr>
 - 📫 How to reach me --> 
 Mail: adriano.contacto@gmail.com <br>
-<p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="30" height="30"><a src="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_blank">Linkedin/AdrianoCappelletti</a></p>
+<p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="25" height="25"><a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_blank">Linkedin/AdrianoCappelletti</a></p>
 
 <!---
 AdriCappelletti/AdriCappelletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
