@@ -11,10 +11,10 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
  <a href="https://www.cypress.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" width="50" height="50"/> </a></p>
 <hr>
-<h2>- 📫 How to reach me:</h2> 
-
+<div align="center">
+<h3>- 📫 How to reach me:</h3> 
 <br>
-<div align="center"><img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
+<img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
 <p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a></div>
 
 <!---
