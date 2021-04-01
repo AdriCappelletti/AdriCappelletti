@@ -1,5 +1,5 @@
 <h1 align="center">:wave: Hi, I'm Adriano</h1>
-<h3 align="center">I'm a Jr Front-End Developer</h3>
+<p align="center">I'm a Jr Front-End Developer</p>
 
 [![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +11,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
  <a href="https://www.cypress.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" width="50" height="50"/> </a></p>
 <hr>
-<h3>- 📫 How to reach me:</h3> 
+<h2>- 📫 How to reach me:</h2> 
 
 <br>
 <div align="center"><img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
