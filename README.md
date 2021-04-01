@@ -1,5 +1,5 @@
 <h1 align="center">:wave: Hi, I'm Adriano</h1>
-<h3 align="center">I'm a Jr Front-End Developer</h3>
+✨<h3 align="center">I'm a Jr Front-End Developer</h3>✨
 
 [![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
