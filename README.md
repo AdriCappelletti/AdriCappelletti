@@ -15,7 +15,7 @@
  </div>
 <br>
 <p>
-<img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20" style="margin-right: 5px;">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
+<img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20" style="margin-right: 20px;">Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
 <p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a>
 
 <!---
