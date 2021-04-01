@@ -1,5 +1,5 @@
 <h1 align="center">:wave: Hi, I'm Adriano</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adricappelletti)](https://github.com/anuraghazra/github-readme-stats)
+![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&show_icons=true&theme=radical)
 <h3 align="center">I'm a Jr Front-End Developer</h3>
 <hr>
 <h3 align="center">:bulb: Technologies i currently work with:</h3>
