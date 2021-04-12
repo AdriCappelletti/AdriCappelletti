@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hi, I'm Adriano</h1>
 <h3 align="center">✨I'm a Front-End Developer✨</h3>
 
-[![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
+[![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">:bulb: Technologies i'm currently working with:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="babel" width="50" height="50"/> </a> 
