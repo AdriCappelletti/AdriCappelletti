@@ -10,7 +10,7 @@
  <a href="https://www.cypress.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" width="50" height="50"/> </a></p>
 
 <hr>
-<div align="center">
+<div align="center" style="background-image: url("https://ak.picdn.net/shutterstock/videos/1024092275/thumb/1.jpg")">
 <h3>- 📫 How to reach me:</h3> 
  </div>
 <br>
