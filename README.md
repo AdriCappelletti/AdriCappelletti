@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Projects that involves Front-End developement**
 
-- 📫 How to reach me **adriano.contacto@gmail.com**
+- 📫 **adriano.contacto@gmail.com**
 
 - <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a> 
 
