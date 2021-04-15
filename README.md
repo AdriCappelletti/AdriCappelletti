@@ -1,7 +1,16 @@
-<h1 align="center">:wave: Hi, I'm Adriano</h1>
-<h3 align="center">✨I'm a Front-End Developer✨</h3>
+<h1 align="center">Hello there!👋 I'm Adriano</h1>
+<h3 align="center">I'm a Front-End Developer</h3>
 
-[![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **JavaScript and React**
+
+- 👯 I’m looking to collaborate on **Projects that involves Front-End developement**
+
+- 📫 How to reach me **adriano.contacto@gmail.com**
+
+- <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a> 
+
+
+
 <h3 align="center">:bulb: Technologies i'm currently working with:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="babel" width="50" height="50"/> </a> 
@@ -15,8 +24,8 @@
  </div>
 <br>
 <p>
-<img src="https://www.biocober.com.ar/wp-content/uploads/2020/07/mail.png" alt="Mail icon" width="20" height="20" >Mail:<a href="mailto: adriano.contacto@gmail.com"> adriano.contacto@gmail.com</a></p> <br>
-<p><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a>
+
+ [![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AdriCappelletti/AdriCappelletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
