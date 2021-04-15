@@ -18,14 +18,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
  <a href="https://www.cypress.io" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" width="50" height="50"/> </a></p>
 
-<hr>
-<div align="center" style="background-image: url("https://ak.picdn.net/shutterstock/videos/1024092275/thumb/1.jpg")">
-<h3>- 📫 How to reach me:</h3> 
- </div>
-<br>
-<p>
-
- [![AdriCappelletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriCappelletti&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adricappelletti&show_icons=true&locale=en" alt="adricappelletti" /></p>
 
 <!---
 AdriCappelletti/AdriCappelletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
