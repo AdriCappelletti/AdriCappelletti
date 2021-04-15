@@ -7,7 +7,7 @@
 
 - 📫 **adriano.contacto@gmail.com**
 
-- <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20">Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a> 
+- <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin icon" width="20" height="20"> Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a> 
 
 
 
