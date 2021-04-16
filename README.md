@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👯 I’m looking to collaborate on **Projects that involves Front-End developement**
+- 👯 I’m looking to collaborate on **Projects that improve my knowledge**
 
 - 📫 **adriano.contacto@gmail.com**
 
