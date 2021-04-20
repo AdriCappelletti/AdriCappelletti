@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!👋 I'm Adriano</h1>
-<h3 align="center">I'm a Front-End Developer</h3>
+<!--- <h3 align="center">I'm a Front-End Developer</h3>--->
 
 - 🌱 I’m currently learning **JavaScript and React**
 
