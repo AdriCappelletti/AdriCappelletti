@@ -1,9 +1,9 @@
 <h1 align="center">Hello there!👋 I'm Adriano</h1>
 <!--- <h3 align="center">I'm a Front-End Developer</h3>--->
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱  I’m currently learning **JavaScript and React**
 
-- 👀 I’m looking to collaborate on **Projects that improve my knowledge**
+- 👀  I’m looking to collaborate on **Projects that improve my knowledge**
 
 - ✉️ **adriano.contacto@gmail.com**
 
