@@ -5,8 +5,6 @@
 
 - 👀- I’m looking to collaborate on **Projects that improve my knowledge**
 
-- ✉️- **adriano.contacto@gmail.com**
-
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d6dfb98f-49e3-497e-8fa2-dfdae0cffa18" /> Linkedin:<a href="https://www.linkedin.com/in/adriano-cappelletti-a114571b7/" target="_BLANK"> AdrianoCappelletti</a> 
 
 
